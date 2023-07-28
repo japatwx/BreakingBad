@@ -204,7 +204,7 @@ border-spacing: 0;
   bottom:0;
 }
 .btn-4:hover:before,
-.btn-4:hover:after{#ff0000
+.btn-4:hover:after{ 
   width:100%;
   transition:800ms ease all;
 }
