@@ -252,11 +252,11 @@
     line-height: 42px;
     padding: 0;
     border: none;
-    background: #369457;
-    background: linear-gradient(0deg, #369457 0%, #369457 100%);
+    background: #ff0000;
+    background: linear-gradient(0deg, #ff0000 0%, #ff0000 100%);
   }
   .btn-2:hover {
-    color: #369457;
+    color: #ff0000;
     background: transparent;
     box-shadow:none;
   }
